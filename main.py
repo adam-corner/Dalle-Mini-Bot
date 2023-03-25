@@ -10,9 +10,9 @@ from pyrogram import filters
 from pyrogram.types import InputMediaPhoto
 
 #bot
-bot_token = ""
-api_hash = ""
-api_id = ""
+bot_token = "6221503428:AAFqGSgeczWFviqAx9fD_Rs-DZf4pyGRjFs"
+api_hash = "238b5570d095840cf6dc6fe2fdbc850a"
+api_id = "7226488"
 app = Client("my_bot",api_id=api_id, api_hash=api_hash,bot_token=bot_token)
 
 # request data
